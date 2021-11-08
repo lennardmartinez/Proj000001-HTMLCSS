@@ -1,0 +1,50 @@
+h3 {
+    margin-top: 10px;
+    border: 1px none lightgrey;
+    padding: 0;
+}
+
+.TCTextInteresting {
+    font-style: italic
+}
+.nobullets {
+    list-style-type: none;
+}
+ul {
+    padding: 0;
+    list-style-type: none;
+}
+li {
+    font-weight:normal;
+
+}
+li > span{
+    font-weight:bold;
+}
+.TCImage {
+    margin-top: 1px;
+    border: 1px solid lightgrey;
+    padding: 0;
+    box-sizing: border-box;   
+}
+.TCardTextBox {
+    margin-top: 10px;
+    border: 1px solid lightgrey;
+    width: 302px;
+    font-size: 13px;
+    padding-top: 3px;
+    padding-right: 7px;
+    padding-bottom: 3px;
+    padding-left: 7px;
+    box-sizing: border-box;    
+}
+.TCPerimeter {
+    border: 1px solid lightgrey;
+    width: 320px;
+    padding-top: 3px;
+    padding-right: 7px;
+    padding-bottom: 7px;
+    padding-left: 7px;
+    box-sizing: border-box; 
+    box-shadow: 5px 5px #d4d4d4;
+}
